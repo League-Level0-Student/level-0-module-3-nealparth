@@ -44,14 +44,11 @@ public class RobotColorChooser {
 					
 					bot.setSpeed(20);
 					bot.penDown();
+					for(int i=0;i<4;i++) {
 					bot.move(100);
 					bot.turn(90);
-					bot.move(100);
-					bot.turn(90);
-					bot.move(100);
-					bot.turn(90);
-					bot.move(100);
 					
+					}	
 				
 				
 	}			

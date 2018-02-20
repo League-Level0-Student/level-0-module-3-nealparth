@@ -13,7 +13,7 @@ public class HighLowGame {
 		// 3. Change this line to give you a random number between 1 - 100.
 		int random = new Random().nextInt(100);
 		// 2. Print out the random variable above
-		System.out.print(random);
+		System.out.print(randomm);
 		// 11. do the following 10 times
 		for (int i = 1; i < 11; i++) {
 			// 1. ask the user for a guess using a pop-up window, and save their response
